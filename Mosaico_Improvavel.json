@@ -1,0 +1,25 @@
+{
+  "id": "Mosaico_Improvavel",
+  "title": "Mosaico Improvável",
+  "author": "Kayque Faiolhe da Silva Alves",
+  "summary": "Uma narrativa profunda sobre a reconstrução de vidas fragmentadas e a formação de uma família indestrutível.",
+  "description": "A obra explora a jornada de Joseph, Isa e Letícia ao adotarem três órfãos — Ster, Léo e Ana. Entre crises corporativas na 8 Suits e traumas do passado, o livro utiliza metáforas de arquitetura, engenharia e tecnologia para descrever a 'Matemática da Sobrevivência' e a força dos vínculos humanos que transformam peças quebradas em um destino cheio de sentido.",
+  "language": ["pt-BR"],
+  "pages": 380,
+  "reading_time": "6h 45min",
+  "tags": [
+    "drama",
+    "família",
+    "tecnologia",
+    "arquitetura",
+    "superação"
+  ],
+  "cover": "https://via.placeholder.com/300x450",
+  "created_at": "2026-04-01",
+  "updated_at": "2026-04-05",
+  "version": "1.0.0",
+  "premium": true,
+  "rating": 4.9,
+  "chapters": 45,
+  "status": "published"
+}

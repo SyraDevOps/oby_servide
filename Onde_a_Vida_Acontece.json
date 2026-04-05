@@ -1,0 +1,25 @@
+{
+  "id": "Onde_a_Vida_Acontece",
+  "title": "Onde a Vida Acontece",
+  "author": "Kayque Faiolhe da Silva Alves",
+  "summary": "Uma exploração sensível sobre os momentos invisíveis e os encontros casuais que definem a existência humana.",
+  "description": "Ambientada nas ladeiras históricas de São João del Rei, a obra foca nos 'intervalos' da vida — os silêncios, os erros e os gestos pequenos que passam despercebidos. Através de uma tapeçaria de personagens comuns, como o zelador Valdir, a faxineira Marta e o estudante Neto, o livro revela como as trajetórias da família Mosaico (Joseph, Isa, Ster, Léo e Ana) se cruzam com o cotidiano anônimo, transformando o ordinário em algo extraordinário.",
+  "language": ["pt-BR"],
+  "pages": 280,
+  "reading_time": "5h 15min",
+  "tags": [
+    "drama",
+    "cotidiano",
+    "filosofia",
+    "São João del Rei",
+    "interconexões"
+  ],
+  "cover": "https://via.placeholder.com/300x450",
+  "created_at": "2026-04-01",
+  "updated_at": "2026-04-05",
+  "version": "1.0.0",
+  "premium": true,
+  "rating": 4.7,
+  "chapters": 10,
+  "status": "published"
+}
