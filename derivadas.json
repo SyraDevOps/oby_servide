@@ -1,0 +1,13 @@
+ {
+    "id": "Anatomia_da_Mudanca",
+    "title": "A Anatomia da Mudança",
+    "author": "Kayque Faiolhe da Silva Alves",
+    "summary": "O poder e a elegância da derivada na descrição do movimento real.",
+    "description": "Uma análise detalhada sobre como capturamos a taxa de variação instantânea. O livro desconstrói a ilusão da estática através de retas tangentes e o poder da regra da cadeia.",
+    "language": ["pt-BR"],
+    "pages": 135,
+    "reading_time": "1h 45min",
+    "tags": ["cálculo", "física", "educação"],
+    "rating": 4.7,
+    "status": "published"
+  }
